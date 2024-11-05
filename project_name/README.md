@@ -1,9 +1,6 @@
-\section{README template}
-
 The README file should document the project data and workflow. Please follow a variation of
 the template below, and write using reStructuredText or Markdown. The following example is from a recent project that uses reStructuredText:
 
-\begin{lstlisting}
 =======================
 MPCD in Channels
 =======================
@@ -40,4 +37,3 @@ Workflow steps
 4.  Once all replicas are finished, run XX to compute
 the MSD and average results together. (explain more detail)
 5. ... 
-\end{lstlisting}
